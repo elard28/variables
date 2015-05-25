@@ -11,9 +11,10 @@ function big()
     function sub2()
     {
         var y=x;
+        System.out.print(y);
     }
     var x=3;
-    System.out.write(x);
+    System.out.print(x);
     sub1();
 }
 

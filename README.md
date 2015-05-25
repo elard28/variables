@@ -11,7 +11,7 @@ libro sebesta pags 240-241
 
 5.- Al se implementada como variable global, e c y c++ se mantiene su valor fuera de una funcion, mientras que java no permite que se reimplemente la variable global dentro de la funcion
 
-6.- 
+6.- Ni en java ni en csharp se pueden redefinir las variables estaticas
 
 7.- 
 Tiempo estatico888: 96.545
