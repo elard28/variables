@@ -5,9 +5,9 @@ libro sebesta pags 240-241
 
 2.- 
 
-3.- 
+3.- Donde este definida siempre predomina su valor global fuera de las subfunciones
 
-4.- Donde este definida siempre predomina su valor global fuera de las subfunciones
+4.- igual
 
 5.- Al se implementada como variable global, e c y c++ se mantiene su valor fuera de una funcion, mientras que java no permite que se reimplemente la variable global dentro de la funcion
 
