@@ -1,12 +1,10 @@
 (defvar x 12)
-;; ==> x
 
 (defun bar ()
+  (defvar x 30)
   (format t "The value of x is ~a" x))
-;; ==> bar
 
-(defun foo (x)
+(defun foo ()
   (bar))
-;; ==> foo
 
-(foo 42)
+(foo)
