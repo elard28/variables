@@ -16,3 +16,5 @@ function big()
     System.out.write(x);
     sub1();
 }
+
+big()
