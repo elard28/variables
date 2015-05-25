@@ -1,15 +1,21 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-void fn(int x)
+int x;
+
+void fn()
 {
     x = 21;
+    printf("Variable global %d\n",x);
     int x;
     x = 42;
-    printf("%d\n",x);
+    printf("Variable local %d\n",x);
 }
 
 int main()
 {
-    fn(3);
+    fn();
+    printf("Variable global %d\n",x);
+    
+    return 0;
 }
