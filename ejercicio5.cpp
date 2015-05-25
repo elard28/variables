@@ -12,7 +12,7 @@ void fn()
     cout<<"Variable global"<<x<<endl;
     int x;
     x = 42;
-    cout<<"Variable global"<<x<<endl;
+    cout<<"Variable local"<<x<<endl;
 }
 
 int main()
